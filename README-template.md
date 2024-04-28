@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://qudusy.github.io/frontend-mentor/)
+- Live Site URL: [Add live site URL here](https://github.com/Qudusy/frontend-mentor)
 
 ## My process
 
@@ -38,17 +38,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Acode editor
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learnt many things when coding out this project, and it makes it one of the major CSS project that I've worked on.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I'll like some animation stuffs 
 
 ### Useful resources
 
